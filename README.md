@@ -3,6 +3,7 @@
 <meta charset="utf-8">
 </HEAD>
 <BODY>
+  <h1 align="center">САЙТ ЕЩЁ В РАЗРАБОТКЕ</h1>
 <h1 align="center">Компания "МАЖОР"</h1>
 <br>
 
