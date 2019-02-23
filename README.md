@@ -3,10 +3,6 @@
 <meta charset="utf-8">
 </HEAD>
 <BODY>
-
-<script type\"text/javascript">
-
-</script>
 <h1 align="center">Компания "МАЖОР"</h1>
 <br>
 
