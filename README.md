@@ -5,8 +5,7 @@
 <BODY>
 
 <script type="text/javascript">
-//name='Мы используем файлы сookie для того, чтобы предоставить вам больше возможностей при использовании сайтa';
-//alert(name); 
+
 </script>
 <h1 align="center">Компания "МАЖОР"</h1>
 <br>
