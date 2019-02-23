@@ -4,7 +4,7 @@
 </HEAD>
 <BODY>
 
-<script type="text/javascript">
+<script type\"text/javascript">
 
 </script>
 <h1 align="center">Компания "МАЖОР"</h1>
